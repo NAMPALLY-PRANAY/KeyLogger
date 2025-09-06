@@ -1,6 +1,6 @@
 Perfect ✅ Here’s the **detailed `README.md`** you can directly use in your GitHub repo:
 
-```markdown
+
 # 🖥️ Ethical Keylogger (Python)
 
 ⚠️ **Disclaimer:**  
