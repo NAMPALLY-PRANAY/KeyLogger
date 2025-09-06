@@ -1,5 +1,3 @@
-Perfect ✅ Here’s the **detailed `README.md`** you can directly use in your GitHub repo:
-
 
 # 🖥️ Ethical Keylogger (Python)
 
@@ -135,12 +133,5 @@ pip install pynput
 * Malicious use of any kind
 
 ---
-
-## 📝 License
-
-This project is open-source under the **MIT License**.
-Please use responsibly.
-
-```
 
 
